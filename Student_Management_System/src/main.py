@@ -1,5 +1,3 @@
-# src/main.py
-
 import os
 from src.system import StudentManagementSystem
 
