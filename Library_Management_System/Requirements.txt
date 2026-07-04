@@ -1,0 +1,5 @@
+Requirements for Library Management System
+  This project only uses Python's built-in standard libraries:
+     - os
+     - json
+     - traceback
