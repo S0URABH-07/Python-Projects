@@ -1,0 +1,22 @@
+{
+    "1": {
+        "title": "Science",
+        "author": "Krishna",
+        "is_borrowed": false
+    },
+    "2": {
+        "title": "Maths",
+        "author": "Vaibhav",
+        "is_borrowed": true
+    },
+    "3": {
+        "title": "Hindi",
+        "author": "Yash",
+        "is_borrowed": false
+    },
+    "4": {
+        "title": "English",
+        "author": "Sourabh",
+        "is_borrowed": false
+    }
+}
