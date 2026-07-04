@@ -1,0 +1,14 @@
+{
+    "1": {
+        "name": "Sourabh",
+        "age": 20,
+        "grade": "A",
+        "courses": []
+    },
+    "2": {
+        "name": "Omprakash",
+        "age": 20,
+        "grade": "A",
+        "courses": []
+    }
+}
