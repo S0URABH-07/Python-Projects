@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which of the following is an immutable data type in Python?",
+        "options": ["A) List", "B) Dictionary", "C) Tuple", "D) Set"],
+        "answer": "C"
+    },
+    {
+        "question": "What is the correct way to initialize a constructor method in a Python class?",
+        "options": ["A) def init(self):", "B) def __init__(self):", "C) def constructor(self):", "D) def __new__(self):"],
+        "answer": "B"
+    },
+    {
+        "question": "Which keyword is used to handle exceptions that occur inside a 'try' block?",
+        "options": ["A) catch", "B) throw", "C) except", "D) error"],
+        "answer": "C"
+    },
+    {
+        "question": "What happens when you use the 'with' statement to open a file in Python?",
+        "options": ["A) The file is compressed automatically.", "B) The file closes automatically after the block finishes.", "C) The file locks permanently to prevent edits.", "D) The file reads into a list automatically."],
+        "answer": "B"
+    },
+    {
+        "question": "Which collection type does NOT allow duplicate elements?",
+        "options": ["A) List", "B) Tuple", "C) Set", "D) Dictionary Keys Only"],
+        "answer": "C"
+    },
+    {
+        "question": "What is the output of len({'a': 1, 'b': 2, 'b': 3}) in Python?",
+        "options": ["A) 2", "B) 3", "C) 4", "D) KeyError"],
+        "answer": "A"
+    },
+    {
+        "question": "Which operator is used for floor division (integer division) in Python?",
+        "options": ["A) /", "B) %", "C) //", "D) **"],
+        "answer": "C"
+    },
+    {
+        "question": "How do you add an element to the end of a list container?",
+        "options": ["A) list.add(item)", "B) list.append(item)", "C) list.insert(item)", "D) list.push(item)"],
+        "answer": "B"
+    },
+    {
+        "question": "What does the 'self' keyword represent inside a Python class method?",
+        "options": ["A) The class itself definition", "B) The hidden internal system configuration", "C) The specific instance object being modified", "D) The global scope window"],
+        "answer": "C"
+    },
+    {
+        "question": "Which keyword is used to exit out of a running loop prematurely?",
+        "options": ["A) exit", "B) stop", "C) break", "D) return"],
+        "answer": "C"
+    },
+    {
+        "question": "What data type is the result of the expression: 10 / 2?",
+        "options": ["A) int", "B) float", "C) double", "D) decimal"],
+        "answer": "B"
+    },
+    {
+        "question": "Which of these is the correct file mode to append data to an existing text file?",
+        "options": ["A) 'r'", "B) 'w'", "C) 'a'", "D) 'x'"],
+        "answer": "C"
+    },
+    {
+        "question": "What is the value of the hidden variable __name__ if a Python file is run directly?",
+        "options": ["A) '__file__'", "B) '__main__'", "C) 'module'", "D) 'root'"],
+        "answer": "B"
+    },
+    {
+        "question": "What does the .strip() method do to a standard string variable?",
+        "options": ["A) Splits the string into a list", "B) Capitalizes all letters", "C) Removes leading and trailing whitespaces", "D) Deletes numbers from the string"],
+        "answer": "C"
+    },
+    {
+        "question": "Which statement will execute regardless of whether an exception occurred or not?",
+        "options": ["A) else", "B) check", "C) finally", "D) block"],
+        "answer": "C"
+    },
+    {
+        "question": "How do you remove a specific key-value pair from a Python dictionary?",
+        "options": ["A) dict.remove(key)", "B) dict.pop(key)", "C) dict.delete(key)", "D) dict.discard(key)"],
+        "answer": "B"
+    },
+    {
+        "question": "What happens if you use a mutable object like a list directly as a default function argument?",
+        "options": ["A) Python raises a SyntaxError.", "B) The list is safely cleared on every call.", "C) All function calls share the exact same list instance in memory.", "D) The argument becomes read-only."],
+        "answer": "C"
+    },
+    {
+        "question": "What is the correct way to check if a key exists inside a dictionary named 'user_data'?",
+        "options": ["A) if key in user_data:", "B) if user_data.has_key(key):", "C) if key exists user_data:", "D) if user_data.find(key):"],
+        "answer": "A"
+    },
+    {
+        "question": "Which OOP concept describes bundling data and methods together inside a single unit?",
+        "options": ["A) Inheritance", "B) Polymorphism", "C) Encapsulation", "D) Abstraction"],
+        "answer": "C"
+    },
+    {
+        "question": "What folder does Python automatically create to store optimized compiled bytecode (.pyc files)?",
+        "options": ["A) .cache/", "B) __pycache__/", "C) bin/", "D) src/"],
+        "answer": "B"
+    }
+]
