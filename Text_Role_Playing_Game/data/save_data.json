@@ -1,0 +1,9 @@
+{
+    "name": "IRON MAN",
+    "role": "Warrior",
+    "max_health": 90,
+    "current_health": 90,
+    "attack_power": 16,
+    "xp": 15,
+    "level": 3
+}
