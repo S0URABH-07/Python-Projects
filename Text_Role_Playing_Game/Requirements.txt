@@ -1,0 +1,5 @@
+Requirements for Text Role Playing Game
+  This project only uses Python's built-in standard libraries:
+     - os
+     - json
+     - traceback
