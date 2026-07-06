@@ -1,0 +1,5 @@
+Requirements for Password Manager
+  This project only uses Python's built-in standard libraries:
+     - os
+     - json
+     - traceback
