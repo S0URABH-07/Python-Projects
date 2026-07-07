@@ -8,7 +8,7 @@ class GameWindow:
         self.width = width
         self.height = height
         self.block_size = block_size
-        self.game_speed = 100 
+        self.game_speed = 150 
         self.score = 0
         self.game_over = False
         
